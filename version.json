@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "https://www.nexusmods.com/tcgcardshopsimulator/mods/1675?tab=files",
-  "changelog": "<b>Version 2.3</b>\n\n• Pack prices lowered to about $4.75 market price.\n• Duel AI no longer plays Mystical Space Typhoon and similar cards on its own Spells/Traps when you have none.\n• Card pictures in duels now load from your PC and are cached, so they appear straight away.\n• Fixed the oversized background with a box in the YuGiOh Card Shop phone app.\n• New: you'll be told in-game when an update is available, with the changelog."
+  "changelog": "Test\ntest"
 }
