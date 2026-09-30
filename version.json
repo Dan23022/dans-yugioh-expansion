@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.3.0",
   "url": "https://www.nexusmods.com/tcgcardshopsimulator/mods/1675?tab=files",
-  "changelog": "Test\ntest"
+  "changelog": "Pack prices updated to be more balanced and realistic\n\nCard packs have been changed to a simplistic created texture (seems to have a positive performance impact)\n\nAdded update checker on each save game load."
 }
